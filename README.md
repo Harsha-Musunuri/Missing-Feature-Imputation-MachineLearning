@@ -37,7 +37,9 @@ We have given text boxes to input different parameters of regression. Another te
  <p align="center">
   <img src="ReadMeImages/Reg_Plot.png">
   </p>
+  
 ## Single feature imputation using Regression
+
 <p align="center">
   <img src="ReadMeImages/one_prediction.png">
 </p>
