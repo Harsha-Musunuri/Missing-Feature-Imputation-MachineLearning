@@ -49,4 +49,7 @@ Here we impute one value when all the other are given. This is done by regressio
 <p align="center">
   <img src="ReadMeImages/Multi_Imputation.png">
 </p>
+
+## Model In action
+![model gif](ReadMeImages/missingValue.gif)
 As discussed above, multiple-features can be imputed here. This is using neural networks.
